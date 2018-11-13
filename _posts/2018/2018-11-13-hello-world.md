@@ -1,5 +1,5 @@
 ---
-title: "Hello-World"
+title: Hello-World
 date: 2018-11-13
 ---
 This is a quick draft of my blog post
