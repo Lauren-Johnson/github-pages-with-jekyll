@@ -15,4 +15,4 @@ And I can make bulleted lists!
 * item two
 * item three
 
-Not too shabby. Can I also linke to external pages here? [Lets try] (www.google.com)
+Not too shabby. Can I also linke to external pages here? [Lets try] (http://www.google.com)
